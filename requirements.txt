@@ -24,3 +24,4 @@ scipy==1.4.1              # via gluoncv
 six==1.14.0               # via cycler, python-dateutil
 tqdm==4.45.0              # via gluoncv
 urllib3==1.25.9           # via requests
+opencv-python==4.4.0.46
